@@ -1,0 +1,22 @@
+.p-style{
+    color: darkblue;
+    font-size: 3rem;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.Bt{
+       background-color: darkblue;
+       border: darkcyan;
+       border-radius: 5px;
+       color: white;
+       font-size: 15px;
+       font-weight: bold;
+       height: 30px;
+       width: 50px;
+}
+
+.anim {
+        box-shadow: 0 15px 20px 0 tomato;
+        opacity: 0.5;
+}
